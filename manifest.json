@@ -4,10 +4,12 @@
   "lang": "en-US",
   "start_url": "https://ems-fresh-project-d387f5.webflow.io/index.html",
   "display": "standalone",
-  "theme_color": "#00000",
+  "scope": "/",
+  "background_color": "#000000",
+  "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://uploads-ssl.webflow.com/600df374320ad93b879288d1/600df374023d35e473c3e09a_menu-icon.png",
+      "src": "https://uploads-ssl.webflow.com/600df374320ad93b879288d1/600e05d23edde508bb943b62_edi.png",
       "sizes": "512*512",
       "type": "image/png"
     }
