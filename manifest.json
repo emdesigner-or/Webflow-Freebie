@@ -2,7 +2,7 @@
   "name": "Editorial Em",
   "short_name": "Editorial Em",
   "lang": "en-US",
-  "start_url": "https://ems-fresh-project-d387f5.webflow.io/index.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "scope": "/",
   "background_color": "#000000",
