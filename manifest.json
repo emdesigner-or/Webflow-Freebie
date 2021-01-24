@@ -1,0 +1,15 @@
+{
+  "name": "Editorial Em",
+  "short_name": "Editorial Em",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#00000",
+  "icons": [
+    {
+      "src": "images/editorial.png",
+      "sizes": "512*512",
+      "type": "image/png"
+    }
+  ]
+}
