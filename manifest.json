@@ -2,12 +2,12 @@
   "name": "Editorial Em",
   "short_name": "Editorial Em",
   "lang": "en-US",
-  "start_url": "/index.html",
+  "start_url": "https://ems-fresh-project-d387f5.webflow.io/index.html",
   "display": "standalone",
   "theme_color": "#00000",
   "icons": [
     {
-      "src": "images/editorial.png",
+      "src": "https://uploads-ssl.webflow.com/600df374320ad93b879288d1/600df374023d35e473c3e09a_menu-icon.png",
       "sizes": "512*512",
       "type": "image/png"
     }
